@@ -3,7 +3,7 @@
 
 Features not implemented and bugs: 
  
-1) button does not work for now if gives error. 
+1) π button does not work for now if gives error. 
 2) Menubar is not included. 
 3) Memory buttons are not included.
 4) This calculator is not for "Scientific Calculation". 
