@@ -1,5 +1,8 @@
 # Calculator
 
+This is a simple GUI based calculator project made by me on Eclipse IDE.
+It has various simple functions like addition, substraction, multplication, and division. It also has sruare root and 1/X function.
+To run and compile it make a class named "calculator" in any IDE.
 
 Features not implemented and bugs: 
  
